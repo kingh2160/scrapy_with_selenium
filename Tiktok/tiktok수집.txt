@@ -1,0 +1,3 @@
+creker_theboyz의 경우
+creker_theboyz requires atleast 25,000 Followers to be added to the Social Blade database. This is to keep a healthy crawling quota on our part.
+위 문구가 뜨는 크롤링 쿼터 제한과 관련된 에러 메시지. -> 특정 요소가 없을때 Exception 처리 해주는 방향으로.

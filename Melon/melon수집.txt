@@ -1,0 +1,6 @@
+감상자 & 스트리밍 단순합(BY XPATH)
+스트리밍://*[@id="main-wrapper"]/div/div[2]/div[2]/div/div/div/ul/li[4]/text()[2]
+감상자  ://*[@id="main-wrapper"]/div/div[2]/div[2]/div/div/div/ul/li[3]/text()[2]
+
+팬 수 확인
+팬: //*[@id="d_like_count"]

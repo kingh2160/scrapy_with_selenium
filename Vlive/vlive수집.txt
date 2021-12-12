@@ -1,0 +1,5 @@
+
+SUBSCRIBERS ://*[@id="root"]/div/div[2]/div[1]/nav/div/span/span
+TOTAL VIEWS ://*[@id="root"]/div/div[2]/div[4]/div/div/dl/div[3]/dd
+UPLOADS     ://*[@id="root"]/div/div[2]/div[4]/div/div/dl/div[1]/dd
+LIKES       ://*[@id="root"]/div/div[2]/div[4]/div/div/dl/div[4]/dd

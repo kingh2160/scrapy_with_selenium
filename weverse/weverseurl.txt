@@ -1,0 +1,12 @@
+nuest/feed
+bts/feed
+blackpink/feed
+seventeen/feed
+winner/feed
+enhypen/feed
+ikon/feed
+treasure/feed
+txt/feed
+sunmi/feed
+stayc/feed
+weeekly/feed
